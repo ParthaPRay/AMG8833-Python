@@ -1,3 +1,9 @@
+/*  Partha Pratim Ray
+ *  18 August, 2023 
+ *   
+ */
+
+
 #include <Wire.h>
 #include <Adafruit_AMG88xx.h>
 
