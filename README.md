@@ -5,13 +5,14 @@ I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
 
 # Connections:
 
-*Arduino UNO* <>  *AMG8833*
-SCL             SCL  <br>
-SDA             SDA
-3.3V            VIN
-GND             GND
-                INT  Not Connected to Arduino 
-                AOO  Not Connected to Arduino
+| Arduino UNO  | AMG8833 |
+| ------------- | ------------- |
+| SCL  | SCL  |
+| SDA  | SDA  |
+| 3.3V  | VIN  |
+| GND  | GND  |
+|   | INT Not Connected to Arduino  |
+|   | A00 Not Connected to Arduino  |   
 
 # Steps to Run:
 1. Load the Arduino Uno R3 with the AMG8833-Uno.ino using Arduino IDE 1.8.19 (Tested)
