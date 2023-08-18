@@ -1,3 +1,5 @@
+# Partha Pratim Ray August 18, 2023
+
 #pip isntall serial, numpy, matplotlib, scipy
 # Change the upsclae factor for desired value  and sigma 
 
