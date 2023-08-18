@@ -14,6 +14,8 @@ I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
 |   | INT Not Connected to Arduino  |
 |   | A00 Not Connected to Arduino  |   
 
+# Circuit
+
 ![AMG8833-Uno](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/b6e6c6db-e98f-49a4-a00f-59c15ebb2626)
 
 
