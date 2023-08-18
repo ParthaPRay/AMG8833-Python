@@ -6,7 +6,7 @@ I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
 # Connections:
 
 Arduino UNO <>  AMG8833 <br>
-SCL             SCL
+SCL             SCL  <br>
 SDA             SDA
 3.3V            VIN
 GND             GND
