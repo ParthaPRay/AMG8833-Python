@@ -1,4 +1,4 @@
-# AMG8833-Python
+# AMG8833-Python-Arduino
 This repo contains the Arduino Uno R3 and Python code to run AMG8833 module and was tested on Ubuntu 22.04 LTS.
 
 I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
