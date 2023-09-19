@@ -24,7 +24,7 @@ I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
    1. Keep the baud rate default 115200
  
 2. To Run the **AMG8833-Uno.py** from Ubuntu 22.04 LTS
-   1. Firstly, Install serial, numpy, scipy, matplotlib using pip (e.g. **pip install serial, numpy, matplotlib, scipy**) from Ubuntu terminal (e.g. **python AMG8833-Uno.py**)
+   1. Firstly, Install serial, numpy, scipy, matplotlib using pip (e.g. **pip install pyserial, numpy, matplotlib, scipy**) from Ubuntu terminal (e.g. **python AMG8833-Uno.py**)
    2.  _"Enter the port (e.g., /dev/ttyACM0): "_
    3.  _"Enter the baud rate (e.g., 115200): "_
    4.  A real-time plot appears that shows the temperature in Celcius
