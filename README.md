@@ -33,18 +33,17 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
       
       2.1.1. For **AMG8833-Uno.py** A real-time plot appears that shows the average temperature in Celcius as shown below
 
-![2023-10-08-135840_1280x1024_scrot](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/b8c2d3e3-0b3c-49d0-a60f-e754b5a21ead)
+![1](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/c90b3556-2271-47fa-8973-ef8e1ae5537a)
 
 
       2.1.2. For **AMG8833-Uno-Max-Min.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius as shown below
 
-![2023-10-08-141200_1280x1024_scrot](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/44d1ca93-bea6-45e6-8148-05989467cf01)
-
+![2](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/76e7544f-e9ea-4ca0-8619-7c0037ab6eb2)
 
 
       2.1.3. For **AMG8833-Uno-KMeans.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius and K-Means clusters as shown below
 
-![2023-10-08-141124_1280x1024_scrot](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/7170def0-8474-4d7d-b186-a0b6051d8314)
+![3](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/bb668709-3a90-46c8-9de4-21fd6bd0dd27)
 
 
 
