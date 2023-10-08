@@ -1,8 +1,8 @@
 # AMG8833-Python-Arduino
-This repo contains the Arduino Uno R3 and Python code to run AMG8833 Grid Eye (Sparkfun) module and was tested on Raspberry Pi (Linux 11 BullsEye).
+This repo contains the Arduino Mega 2560 and Python code to run AMG8833 Grid Eye (Sparkfun) module and was tested on Raspberry Pi (Linux 11 BullsEye).
 
-I used Arduino Uno R3 and AMG8833 (INT and AOO pins unconnected).
-pip install -U scikit-learn
+I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
+
 # Connections:
 
 | Arduino UNO  | AMG8833 |
