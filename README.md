@@ -21,7 +21,7 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
 
 
 # Steps to Run:
-1. Load the Arduino Uno R3 with the **AMG8833-Uno.ino** using Arduino IDE 1.8.19 (Tested)
+1. Load the Arduino Uno R3 with the **AMG8833-Arduino.ino** using Arduino IDE 1.8.19 (Tested)
    1. Keep the baud rate default 115200
  
 2. To Run the the AMG8833*.py code
@@ -31,17 +31,17 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
    4. Then Run the python code
 
       
-      2.1.1. For **AMG8833-Uno.py** A real-time plot appears that shows the average temperature in Celcius as shown below
+      2.1.1. For **AMG8833-Arduino.py** A real-time plot appears that shows the average temperature in Celcius as shown below
 
 ![1](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/c90b3556-2271-47fa-8973-ef8e1ae5537a)
 
 
-      2.1.2. For **AMG8833-Uno-Max-Min.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius as shown below
+      2.1.2. For **AMG8833-Arduino-Max-Min.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius as shown below
 
 ![2](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/76e7544f-e9ea-4ca0-8619-7c0037ab6eb2)
 
 
-      2.1.3. For **AMG8833-Uno-KMeans.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius and K-Means clusters as shown below
+      2.1.3. For **AMG8833-Arduino-KMeans.py** A real-time plot appears that shows the average, maximum and minimum temperature in Celcius and K-Means clusters as shown below
 
 ![3](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/bb668709-3a90-46c8-9de4-21fd6bd0dd27)
 
