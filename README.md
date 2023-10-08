@@ -3,7 +3,7 @@ This repo contains the Arduino Mega 2560 and Python code to run AMG8833 Grid Eye
 
 I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
 
-# Connections:
+# Connection:
 
 | Arduino UNO  | AMG8833 GridEye |
 | ------------- | ------------- |
