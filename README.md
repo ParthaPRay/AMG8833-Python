@@ -12,7 +12,7 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
 | 3.3V  | VIN  |
 | GND  | GND  |
 |  INT |  Not Connected to Arduino  |
-| ------------- | ------------- |
+
 
 # Circuit
 
