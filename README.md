@@ -16,7 +16,7 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
 
 # Circuit
 
-![9e1e2a22-1b49-4a3a-9ea4-0908614eb00c](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/23b41cdb-b446-42fd-96dd-32efbd7e6ec3)
+![9e1e2a22-1b49-4a3a-9ea4-0908614eb00c](https://github.com/ParthaPRay/AMG8833-Python/assets/1689639/29ae6597-67db-4f4b-be23-13561de6c466)
 
 
 
