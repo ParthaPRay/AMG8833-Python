@@ -11,7 +11,7 @@ I used Arduino Mega 2560 and AMG8833 (INT and AOO pins unconnected).
 | 3.3V  | 3.3V  |
 | SDA  | SDA  |
 | SCL  | SCL  |
-|  INT |  Not Connected to Arduino  |
+|  Not Connected | INT |
 
 
 # Circuit
